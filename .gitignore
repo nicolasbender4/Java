@@ -1,0 +1,4 @@
+# Custom exclude
+.idea
+# Project exclude paths
+/out/
